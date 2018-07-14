@@ -6,7 +6,7 @@
 #
 
 sourceDir=~/Downloads/
-targetDir=~/Music/Ableton/User\ Library/MyInstuments/Stems/
+targetDir=~/Music/Ableton/User\ Library/MyInstruments/Stems/
 
 for stem in $sourceDir*.mp4
 do
